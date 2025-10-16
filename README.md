@@ -1,4 +1,4 @@
-# 🧠 Job Market Analysis Dashboard — Data Roles & Skills Insights  
+# Job Market Analysis Dashboard
 **By Kirti Sundar Dey**  
 📊 *Internship Project at Datamites*
 
@@ -23,7 +23,7 @@ This project was completed during my **internship at Datamites** as part of a ha
 Datamites provided a **single database named `job_market_analysis`**, which contained **42 columns** with detailed job market information such as job titles, companies, locations, salaries, skills, and industries.
 
 I performed the following steps:
-1. **Extracted the raw data** from the `job_market_analysis` database.  
+1. **Extracted the raw data** from the [`job_market_analysis`](./RawData/job_market_analysis.csv) database.  
 2. **Cleaned, standardized, and transformed** the dataset using **MySQL Workbench**.  
 3. **Exported the cleaned dataset** into Power BI for visualization and analysis.  
 4. **Built interactive dashboards** to identify market trends, top-paying roles, and in-demand skills.
@@ -35,7 +35,7 @@ The final dashboard helps understand hiring trends in the **Data Science & Analy
 ## 🗂️ Project Workflow  
 
 ### 1. Database Overview  
-- **Database Name:** `job_market_analysis`  
+- **Database Name:** [`job_market_analysis`](./RawData/job_market_analysis.csv)  
 - **Total Columns:** 42  
 - **Data Provided By:** Datamites  
 - **Data Includes:**  
@@ -61,7 +61,8 @@ I used **MySQL Workbench** to extract, clean, and prepare the dataset.
 - Calculated **average, minimum, and maximum salaries**  
 - Exported the cleaned dataset as a `.csv` file for Power BI visualization  
 
-📄 **SQL Script Used:** [`data_preparation.sql`](./data_preparation.sql)
+📄 **SQL Script Used:** [`data_preparation.sql`](./DataPreparation/data_preparation.sql)
+📄 **Cleaned Data:** [`Data After Cleaning`](./CleanedData)
 
 ---
 
@@ -92,7 +93,7 @@ Both dashboards include interactive visuals, KPIs, and charts to help explore jo
 - **Highest Average Salary:** California ($156K)  
 
 📸 *Dashboard Preview:*  
-![Job Market Dashboard – Data Roles & Skills Analysis](./Job-Market-Analysis-Dashboard-Page1.png)
+![Job Market Dashboard – Data Roles & Skills Analysis](./Dashboard/Job-Market-Analysis-Dashboard-Page1.png)
 
 ---
 
@@ -111,7 +112,7 @@ Both dashboards include interactive visuals, KPIs, and charts to help explore jo
 - **Highest Paying Roles:** Data Scientist & ML Engineer  
 
 📸 *Dashboard Preview:*  
-![Job Market Dashboard – Skills Analysis](./Job-Market-Analysis-Dashboard-Page2.png)
+![Role-Based Skills & Demand Analysis](./Dashboard/Job-Market-Analysis-Dashboard-Page2.png)
 
 ---
 
@@ -121,7 +122,7 @@ Both dashboards include interactive visuals, KPIs, and charts to help explore jo
 | **MySQL Workbench** | Data extraction, cleaning, and transformation |
 | **SQL** | Data manipulation and aggregation |
 | **Power BI** | Dashboard creation and visualization |
-| **Excel / CSV** | Data export and inspection |
+| **CSV** | Data export and inspection |
 
 ---
 
@@ -136,7 +137,6 @@ Both dashboards include interactive visuals, KPIs, and charts to help explore jo
 
 ## 🚀 Future Improvements  
 - Integrate **live job data** from sources like LinkedIn or Glassdoor APIs.  
-- Implement **Python-based salary prediction** using machine learning.  
 - Enhance Power BI dashboards with **real-time filters** and **custom drill-through pages**.  
 
 ---
@@ -145,5 +145,5 @@ Both dashboards include interactive visuals, KPIs, and charts to help explore jo
 **👤 Kirti Sundar Dey**  
 💼 Data Analyst | Power BI | SQL | Excel  
 🎓 Internship Project by **Datamites**  
-📍 India  
-🔗 [LinkedIn (optional)](#) | [GitHub (optional)](#)
+📍 BIndia
+🔗 [LinkedIn](#www.linkedin.com/in/kirti-sundar-dey-0954122a5) | [GitHub](#https://github.com/kirtisundardey)
