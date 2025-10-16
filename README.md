@@ -145,5 +145,5 @@ Both dashboards include interactive visuals, KPIs, and charts to help explore jo
 **👤 Kirti Sundar Dey**  
 💼 Data Analyst | Power BI | SQL | Excel  
 🎓 Internship Project by **Datamites**  
-📍 BIndia
-🔗 [LinkedIn](#www.linkedin.com/in/kirti-sundar-dey-0954122a5) | [GitHub](#https://github.com/kirtisundardey)
+📍 Bengaluru, India
+🔗 [LinkedIn](#www.linkedin.com/in/kirti-sundar-dey-0954122a5)
