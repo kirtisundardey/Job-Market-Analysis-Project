@@ -1,0 +1,737 @@
+Job_Title_Sim,Jobs_Name,Skill,Job_Count
+"Data Scientist","Data Scientist",Python,83
+"Data Scientist","Healthcare Data Scientist",Python,1
+"ML Engineer","Staff Machine Learning Engineer",Python,1
+"Data Engineer","Data Engineer",Python,26
+"Data Engineer","Lead Data Engineer",Python,1
+"Data Analyst","Data Analyst",Python,6
+"Data Scientist","Senior Data Scientist",Python,17
+"Data Scientist","Data Analytics Manager",Python,1
+"Data Scientist","Customer Data Scientist",Python,1
+"Data Scientist","Lead Data Scientist",Python,5
+"Data Scientist","Senior Machine Learning (ML) Engineer / Data Scientist - Cyber Security Analytics",Python,1
+"Data Engineer","Sr. Data Engineer - Contract-to-Hire (Java)",Python,1
+"Data Scientist","Data Scientist - Quantitative",Python,1
+"Data Scientist","Data Scientist, Office of Data Science",Python,1
+"Data Scientist","Data Science Analyst",Python,1
+"Data Scientist","Digital Health Data Scientist",Python,1
+"ML Engineer","Machine Learning Engineer",Python,3
+"Data Scientist","Data Scientist/ML Engineer",Python,1
+"Data Scientist","Sr. Data Scientist",Python,1
+"Data Scientist","Data Scientist / Machine Learning Expert",Python,1
+"Other Scientist","Senior Research Scientist - Embedded System Development for DevOps",Python,1
+"Data Scientist","Data Scientist - Bioinformatics",Python,1
+"Data Scientist","Associate Data Scientist/Computer Scientist",Python,1
+"Data Scientist","Data Scientist - Research",Python,1
+"Data Analyst","Web Data Analyst",Python,1
+"Data Scientist","Customer Data Scientist/Sales Engineer",Python,1
+"Data Analyst","Data & Analytics Consultant (NYC)",Python,1
+"Data Analyst","Senior Data Analyst",Python,6
+"Data Scientist","Senior Spark Engineer (Data Science)",Python,1
+"Data Analyst","Analytics Consultant",Python,1
+"Data Scientist","BI & Platform Analytics Manager",Python,1
+"Data Scientist","Director, Data Science",Python,1
+"Data Scientist","Sr. Data Scientist - Analytics, Personalized Healthcare (PHC)",Python,1
+"Data Scientist","Data Scientist SR",Python,1
+"Data Engineer","Big Data Engineer - Chicago - Future Opportunity",Python,1
+"Data Scientist","Data Scientist (Actuary, FSA or ASA)",Python,1
+"Data Analyst","Survey Data Analyst",Python,1
+"Data Scientist","Staff Data Scientist",Python,1
+"Data Scientist","Customer Data Scientist/Sales Engineer (Bay",Python,1
+"Other Scientist","Senior Scientist - Neuroscience",Python,1
+"Data Scientist","Risk and Analytics IT, Data Scientist",Python,1
+"Data Engineer","sql_ Data Engineer",Python,1
+"Data Scientist","Sr. Data Scientist, Cyber-Security LT Contract",Python,1
+"Data Scientist","Principal Data Scientist with over 10 years experience",Python,1
+"Data Scientist","Insurance Data Scientist",Python,1
+"Data Scientist","Sr. Data Scientist II",Python,1
+"ML Engineer","Machine Learning Research Scientist",Python,1
+"Data Scientist","Data Scientist, Rice University",Python,1
+"Data Scientist","VP, Data Science",Python,1
+"Data Scientist","Data Scientist, Senior",Python,1
+"Data Analyst","Radar Data Analyst",Python,1
+"Data Scientist","PL Actuarial-Lead Data Scientist",Python,1
+"ML Engineer","Senior Data & Machine Learning Scientist",Python,1
+"Data Scientist","Principal Data Scientist (Computational Chemistry)",Python,1
+"Data Analyst","CONSULTANTâ€“ DATA ANALYTICS GROUP",Python,1
+"Data Scientist","Data Scientist II",Python,1
+"Data Engineer","Data Engineer, Data Engineering and Artifical Intelligence",Python,1
+"Data Analyst","Sr. Data Analyst",Python,2
+"Data Engineer","Lead Data Engineer (Python)",Python,1
+"Data Scientist","Data Science Engineer - Mobile",Python,1
+"Data Scientist","Director II, Data Science - GRS Predictive Analytics",Python,1
+"Other Scientist","RESEARCH COMPUTER SCIENTIST - RESEARCH ENGINEER - SR. COMPUTER SCIENTIST - SOFTWARE DEVELOPMENT",Python,1
+"Data Scientist","Sr Expert Data Science, Advanced Visual Analytics (Associate level)",Python,1
+"Data Engineer","Principal Data Engineer, Data Platform & Insights",Python,1
+"Data Scientist","Geospatial Software Developer and Data Scientist",Python,1
+"Data Analyst","Business Data Analyst",Python,1
+"Data Scientist","Data Scientist - Sales",Python,1
+"Data Scientist","Director Data Science",Python,1
+"Not Specified","Data Operations Lead",Python,1
+"Data Engineer","Senior Data Engineer",Python,5
+"Data Engineer","Big Data Engineer",Python,2
+"Data Scientist","Associate Machine Learning Engineer / Data Scientist May 2020 Undergrad",Python,1
+"Other Scientist","Research Scientist â€“ Security and Privacy",Python,1
+"ML Engineer","Principal Machine Learning Scientist",Python,1
+"Data Analyst","Supply Chain Data Analyst",Python,1
+"Data Engineer","Data Engineer - ETL",Python,1
+"Data Engineer","Staff Data Engineer",Python,1
+"Data Scientist","Product Manager/Data Evangelist",Python,1
+"ML Engineer","Machine Learning Engineer (NLP)",Python,1
+"Data Engineer","Data Engineering Analyst",Python,1
+"Data Scientist","Manager of Data Science",Python,1
+"Data Scientist","Software Engineer (Data Scientist/Software Engineer) - SISW - MG",Python,1
+"Data Scientist","Data Science Manager",Python,1
+"Data Scientist","Computational Chemist/Data Scientist",Python,1
+"Data Analyst","Senior Quantitative Analyst",Python,1
+"Data Scientist","Data Scientist Manager",Python,1
+"Data Scientist","Principal Data Scientist",Python,2
+"Data Scientist","Product Engineer â€“ Data Science",Python,1
+"Data Scientist","Senior Data Scientist - Algorithms",Python,1
+"Data Engineer","Staff BI and Data Engineer",Python,1
+"Data Analyst","Marketing Data Analyst",Python,1
+"Data Analyst","Information Security Data Analyst",Python,1
+"Data Scientist","Senior Data Scientist Oncology",Python,1
+"Other Scientist","Senior Scientist (Neuroscience)",Python,1
+"ML Engineer","Machine Learning Engineer - Regulatory",Python,1
+"ML Engineer","Research Scientist, Machine Learning Department",Python,1
+"Data Scientist","Data Scientist - Systems Engineering",Python,1
+"Data Scientist","Senior Data Scientist - R&D Oncology",Python,1
+"Not Specified","Senior Engineer, Data Management Engineering",Python,1
+"Data Scientist","Director II, Data Science - GRM Actuarial",Python,1
+"Other Scientist","Software Engineer Staff Scientist: Human Language Technologies",Python,1
+"Data Engineer","Sr. Data Engineer",Python,1
+"Data Engineer","Data Engineer - Consultant (Charlotte Based)",Python,1
+"Data Scientist","Data Scientist (Warehouse Automation)",Python,1
+"Data Scientist","Jr. Data Scientist",Python,1
+"Data Scientist","Senior Insurance Data Scientist",Python,1
+"Not Specified","Enterprise Architect, Data",Python,1
+"Data Modeler","Data Modeler - Data Solutions Engineer",Python,1
+"Data Scientist","Associate, Data Science, Internal Audit",Python,1
+"Data Scientist","Senior LiDAR Data Scientist",Python,1
+"Data Analyst","Salesforce Analytics Consultant",Python,1
+"Data Engineer","Lead Big Data Engineer",Python,1
+"Data Scientist","Product Engineer â€“ Spatial Data Science and Statistical Analysis",Python,1
+"Data Engineer","Sr. Data Engineer (ETL Developer)",Python,1
+"Data Engineer","Senior Data Engineer",Spark,5
+"Data Scientist","Data Scientist",Spark,32
+"ML Engineer","Staff Machine Learning Engineer",Spark,1
+"Data Engineer","Data Engineer",Spark,20
+"Data Engineer","Lead Data Engineer",Spark,1
+"Data Analyst","Data Analyst",Spark,1
+"Data Scientist","Senior Data Scientist",Spark,6
+"Data Scientist","Customer Data Scientist",Spark,1
+"Data Scientist","Senior Machine Learning (ML) Engineer / Data Scientist - Cyber Security Analytics",Spark,1
+"ML Engineer","Machine Learning Engineer",Spark,1
+"Data Scientist","Data Scientist/ML Engineer",Spark,1
+"Data Scientist","Associate Data Scientist/Computer Scientist",Spark,1
+"Data Scientist","Customer Data Scientist/Sales Engineer",Spark,1
+"Data Scientist","Senior Spark Engineer (Data Science)",Spark,1
+"Data Scientist","Lead Data Scientist",Spark,1
+"Data Scientist","Sr. Data Scientist - Analytics, Personalized Healthcare (PHC)",Spark,1
+"Data Scientist","Data Scientist SR",Spark,1
+"Data Engineer","Big Data Engineer - Chicago - Future Opportunity",Spark,1
+"Data Scientist","R&D Sr Data Scientist",Spark,1
+"Data Scientist","Customer Data Scientist/Sales Engineer (Bay",Spark,1
+"Data Scientist","Sr. Data Scientist, Cyber-Security LT Contract",Spark,1
+"Data Scientist","Insurance Data Scientist",Spark,1
+"Data Scientist","Sr. Data Scientist II",Spark,1
+"Data Scientist","Data Scientist II",Spark,1
+"Data Engineer","Data Engineer, Data Engineering and Artifical Intelligence",Spark,1
+"Data Analyst","Lead Data Analyst",Spark,1
+"Data Engineer","Principal Data Engineer, Data Platform & Insights",Spark,1
+"Data Engineer","Big Data Engineer",Spark,2
+"Data Scientist","Associate Machine Learning Engineer / Data Scientist May 2020 Undergrad",Spark,1
+"Data Engineer","Data Engineer - ETL",Spark,1
+"Data Modeler","Data Modeler (Analytical Systems)",Spark,1
+"Data Engineer","Staff Data Engineer",Spark,2
+"Data Engineer","Data Engineering Analyst",Spark,1
+"Data Scientist","Manager of Data Science",Spark,1
+"Data Scientist","Data Scientist Manager",Spark,1
+"Data Engineer","Associate Data Engineer",Spark,1
+"Data Engineer","Staff BI and Data Engineer",Spark,1
+"Data Analyst","Sr. Data Analyst",Spark,1
+"Data Analyst","Information Security Data Analyst",Spark,1
+"Data Engineer","Associate Director, Platform and DevOps- Data Engineering and Aritifical Intelligence",Spark,1
+"Not Specified","Senior Engineer, Data Management Engineering",Spark,1
+"Data Engineer","Sr. Data Engineer",Spark,1
+"Data Engineer","Sr. Data Engineer | Big Data SaaS Pipeline",Spark,1
+"Data Scientist","Jr. Data Scientist",Spark,1
+"Data Engineer","IT - Data Engineer II",Spark,1
+"Not Specified","Enterprise Architect, Data",Spark,1
+"Not Specified","Technology-Minded, Data Professional Opportunities",Spark,1
+"Data Scientist","Managing Data Scientist/ML Engineer",Spark,1
+"Data Engineer","Lead Big Data Engineer",Spark,1
+"Data Scientist","Product Engineer â€“ Spatial Data Science and Statistical Analysis",Spark,1
+"Data Engineer","Senior Data Engineer",AWS,6
+"Data Engineer","Data Engineer",AWS,15
+"Data Engineer","Lead Data Engineer",AWS,1
+"Data Analyst","Data Analyst",AWS,2
+"Data Scientist","Data Scientist",AWS,21
+"Other Scientist","Medical Laboratory Scientist",AWS,1
+"Other Scientist",Scientist,AWS,1
+"Data Scientist","Data Analytics Manager",AWS,1
+"Data Scientist","Customer Data Scientist",AWS,1
+"Data Scientist","Senior Data Scientist",AWS,7
+"Data Scientist","Data Scientist - Quantitative",AWS,1
+"Data Scientist","Digital Health Data Scientist",AWS,1
+"ML Engineer","Machine Learning Engineer",AWS,2
+"Data Scientist","Clinical Data Scientist",AWS,1
+"Data Engineer","Data Engineer 4 - Contract",AWS,1
+"Data Scientist","Customer Data Scientist/Sales Engineer",AWS,1
+"Data Scientist","Senior Spark Engineer (Data Science)",AWS,1
+"Data Scientist","Lead Data Scientist",AWS,1
+"Data Engineer","Big Data Engineer - Chicago - Future Opportunity",AWS,1
+"Data Scientist","R&D Sr Data Scientist",AWS,1
+"Data Scientist","Staff Data Scientist",AWS,1
+"Data Scientist","Customer Data Scientist/Sales Engineer (Bay",AWS,1
+"Other Scientist","Research Scientist",AWS,1
+"Data Analyst","Lead Health Data Analyst - Front End",AWS,1
+"Data Engineer","sql_ Data Engineer",AWS,1
+"Data Scientist","Sr. Data Scientist, Cyber-Security LT Contract",AWS,1
+"Data Scientist","Principal Data Scientist with over 10 years experience",AWS,1
+"Data Scientist","Sr. Data Scientist II",AWS,1
+"Data Analyst","Information Security Data Analyst",AWS,1
+"Data Scientist","Data Scientist, Senior",AWS,1
+"ML Engineer","Senior Data & Machine Learning Scientist",AWS,1
+"Data Scientist","Principal Data Scientist (Computational Chemistry)",AWS,1
+"Data Engineer","Data Engineer, Data Engineering and Artifical Intelligence",AWS,1
+"Data Engineer","Lead Data Engineer (Python)",AWS,1
+"Other Scientist","RESEARCH COMPUTER SCIENTIST - RESEARCH ENGINEER - SR. COMPUTER SCIENTIST - SOFTWARE DEVELOPMENT",AWS,1
+"Data Scientist","Geospatial Software Developer and Data Scientist",AWS,1
+"Data Scientist","Director Data Science",AWS,1
+"Other Scientist","Sr Scientist, Immuno-Oncology - Oncology",AWS,1
+"Data Engineer","Data Engineer - ETL",AWS,1
+"Data Modeler","Data Modeler (Analytical Systems)",AWS,1
+"Data Engineer","Staff Data Engineer",AWS,2
+"Data Scientist","Product Manager/Data Evangelist",AWS,1
+"Data Modeler","Data Architect / Data Modeler",AWS,1
+"Data Analyst","Data Analyst, Performance Partnership",AWS,1
+"Other Scientist","Associate Scientist / Sr. Associate Scientist, Antibody Discovery",AWS,1
+"ML Engineer","Machine Learning Engineer (NLP)",AWS,1
+Director,"Director, Precision Medicine Clinical Biomarker Scientist",AWS,1
+"Data Engineer","Associate Data Engineer",AWS,1
+"Other Scientist","Research Scientist or Senior Research Scientist - Computer Vision",AWS,1
+"Data Engineer","Associate Director, Platform and DevOps- Data Engineering and Aritifical Intelligence",AWS,1
+"Data Analyst","Foundational Community Supports Data Analyst",AWS,1
+"Not Specified","Senior Engineer, Data Management Engineering",AWS,1
+"Data Scientist","Principal Data Scientist",AWS,1
+"Data Engineer","Sr. Data Engineer",AWS,1
+"Data Engineer","Sr. Data Engineer | Big Data SaaS Pipeline",AWS,1
+"Data Analyst","Data Analyst 1, full-time contract worker for up to 12 months",AWS,1
+"Other Scientist","Scientist, Immuno-Oncology",AWS,1
+"Data Scientist","Data Scientist (Warehouse Automation)",AWS,1
+"Not Specified","Enterprise Architect, Data",AWS,1
+"Data Scientist","Senior Manager, Epidemiologic Data Scientist",AWS,1
+"Data Analyst","Corporate Risk Data Analyst (sql_ Based) - Milwaukee or",AWS,1
+"Data Scientist","Senior LiDAR Data Scientist",AWS,1
+"Data Engineer","Lead Big Data Engineer",AWS,1
+"Data Scientist","Data Scientist",Excel,54
+"Data Engineer","Data Engineer",Excel,18
+"Data Analyst","Data Analyst",Excel,13
+"Data Analyst","Marketing Data Analyst",Excel,1
+"Data Engineer","Data Engineer I",Excel,1
+"Data Scientist","Senior Data Scientist",Excel,13
+"Other Scientist","Scientist I/II, Biology",Excel,1
+"Data Scientist","Data Analytics Manager",Excel,1
+"Data Scientist","Customer Data Scientist",Excel,1
+"Data Scientist","Lead Data Scientist",Excel,3
+"Data Analyst","Associate Data Analyst",Excel,2
+"Data Scientist","Senior Data Scientist / Machine Learning",Excel,1
+"Data Scientist","Data Scientist - Quantitative",Excel,1
+"Data Scientist","Data Science Analyst",Excel,1
+"Other Scientist","Staff Scientist-Downstream Process Development",Excel,1
+"Other Scientist","Associate Scientist",Excel,1
+"Other Scientist","Scientist 2, QC Viral Vector",Excel,1
+"Data Scientist","Digital Health Data Scientist",Excel,1
+"ML Engineer","Machine Learning Engineer",Excel,2
+"Data Scientist","Clinical Data Scientist",Excel,1
+"Data Scientist","Data Scientist/ML Engineer",Excel,1
+"Data Analyst","Business Data Analyst, sql_",Excel,1
+"Data Engineer","Data Engineer 4 - Contract",Excel,1
+"Data Analyst","Data Analyst - Asset Management",Excel,1
+"Other Scientist","Senior Research Scientist - Embedded System Development for DevOps",Excel,1
+"Data Analyst","Web Data Analyst",Excel,1
+"Data Scientist","Customer Data Scientist/Sales Engineer",Excel,1
+"Data Engineer","MongoDB Data Engineer II",Excel,1
+"Data Analyst","System and Data Analyst",Excel,1
+"Data Analyst","Data & Analytics Consultant (NYC)",Excel,1
+"Data Analyst","Senior Data Analyst",Excel,5
+"Data Scientist","BI & Platform Analytics Manager",Excel,1
+"Data Scientist","Director, Data Science",Excel,1
+"Other Scientist",Scientist,Excel,1
+"Data Scientist","Sr. Data Scientist - Analytics, Personalized Healthcare (PHC)",Excel,1
+"Other Scientist","Pricipal Scientist Molecular and cellular biologist",Excel,1
+"Data Scientist","Data Scientist (Actuary, FSA or ASA)",Excel,1
+"Data Analyst","Survey Data Analyst",Excel,1
+"Data Scientist","Customer Data Scientist/Sales Engineer (Bay",Excel,1
+"Data Engineer","Data Engineer 5 - Contract (Remote)",Excel,1
+"Other Scientist","Senior Scientist - Neuroscience",Excel,1
+"Other Scientist","Research Scientist",Excel,2
+"Data Analyst","Jr. Business Data Analyst",Excel,1
+"Data Scientist","Analytics Manager",Excel,1
+"Data Analyst","Digital Marketing & ECommerce Data Analyst",Excel,1
+"Data Analyst","Junior Data Analyst",Excel,1
+"Other Scientist","Sr. Scientist - Digital & Image Analysis/Computational Pathology",Excel,1
+"Other Scientist","Principal Scientist - Immunologist",Excel,1
+"Not Specified","Data Management Specialist",Excel,1
+"Data Analyst","E-Commerce Data Analyst",Excel,1
+"Data Scientist","Sr. Data Scientist, Cyber-Security LT Contract",Excel,1
+"Other Scientist","Sr. Scientist II",Excel,1
+"Data Scientist","Principal Data Scientist with over 10 years experience",Excel,1
+"Data Analyst","Insurance Financial Data Analyst",Excel,1
+"Data Analyst","Data Analyst / Scientist",Excel,1
+"Data Engineer","Data Engineer I - Azure",Excel,1
+"Data Analyst","Excel / VBA / sql_ Data Analyst",Excel,1
+"Data Scientist","VP, Data Science",Excel,1
+"Data Analyst","Financial Data Analyst",Excel,1
+"Data Analyst","Radar Data Analyst",Excel,1
+"Data Scientist","PL Actuarial-Lead Data Scientist",Excel,1
+"Other Scientist","PV Scientist",Excel,1
+"Not Specified","Software Engineer - Data Visualization",Excel,1
+"Data Engineer","Data Engineer, Data Engineering and Artifical Intelligence",Excel,1
+"Data Analyst","Analytics - Business Assurance Data Analyst",Excel,1
+Director,"Associate Director/Director, Safety Scientist",Excel,1
+"Other Scientist","Associate Scientist/Scientist, Process Analytical Technology - Small Molecule Analytical Chemistry",Excel,1
+"Data Analyst","Products Data Analyst II",Excel,1
+"Data Analyst","Program/Data Analyst",Excel,1
+"Data Analyst","Data Analyst Senior",Excel,1
+"Data Scientist","Data Science Engineer - Mobile",Excel,1
+"Data Analyst","Senior Operations Data Analyst, Call Center Operations",Excel,1
+"Data Engineer","Senior Data Engineer",Excel,2
+"Other Scientist","RESEARCH COMPUTER SCIENTIST - RESEARCH ENGINEER - SR. COMPUTER SCIENTIST - SOFTWARE DEVELOPMENT",Excel,1
+"Data Engineer","Principal Data Engineer, Data Platform & Insights",Excel,1
+"Other Scientist","Senior Scientist - Toxicologist - Product Integrity (Stewardship)",Excel,1
+"Data Analyst","Clinical Data Analyst",Excel,1
+"Data Analyst","Systems Engineer II - Data Analyst",Excel,1
+"Data Analyst","Business Data Analyst",Excel,1
+"Data Scientist","Data Scientist - Sales",Excel,1
+"Data Scientist","Director Data Science",Excel,1
+"Data Analyst","Sr Data Analyst - IT",Excel,1
+"Not Specified","Data Operations Lead",Excel,1
+"Data Scientist","Data Science Project Manager",Excel,1
+"Other Scientist","Senior Scientist - Biostatistician",Excel,1
+"Data Scientist","Data Science Manager",Excel,2
+"Data Analyst","Supply Chain Data Analyst",Excel,1
+"Data Engineer","Data Engineer - ETL",Excel,1
+"Data Modeler","Data Modeler (Analytical Systems)",Excel,1
+"Data Modeler","Data Architect / Data Modeler",Excel,1
+"Data Analyst","Data Analyst, Performance Partnership",Excel,1
+"Other Scientist","Scientist â€“ Cancer Discovery, Molecular Assay",Excel,1
+"Other Scientist","Associate Scientist / Sr. Associate Scientist, Antibody Discovery",Excel,1
+"ML Engineer","Machine Learning Engineer (NLP)",Excel,1
+"Data Engineer","Data Engineering Analyst",Excel,1
+"Data Scientist","Software Engineer (Data Scientist/Software Engineer) - SISW - MG",Excel,1
+"Other Scientist","Associate Research Scientist I (Protein Expression and Production)",Excel,1
+"Other Scientist","Senior Formulations Scientist II",Excel,1
+"Data Analyst","Senior Quantitative Analyst",Excel,1
+"Data Scientist","Data Scientist Manager",Excel,1
+"Data Scientist","Principal Data Scientist",Excel,2
+"Data Engineer","Associate Data Engineer",Excel,1
+"Data Analyst","Sr. Data Analyst",Excel,2
+"Data Scientist","Data Analytics Project Manager",Excel,1
+"Other Scientist","Research Scientist or Senior Research Scientist - Computer Vision",Excel,1
+"Data Analyst","Consultant - Analytics Consulting",Excel,1
+"Data Analyst","Data Analyst Chemist - Quality System Contractor",Excel,1
+"Data Scientist","Senior Data Scientist Oncology",Excel,1
+"Other Scientist","Senior Scientist (Neuroscience)",Excel,1
+"ML Engineer","Machine Learning Engineer - Regulatory",Excel,1
+"Other Scientist","Scientist, Bacteriology",Excel,1
+"Data Engineer","Associate Director, Platform and DevOps- Data Engineering and Aritifical Intelligence",Excel,1
+"Data Analyst","Foundational Community Supports Data Analyst",Excel,1
+"Data Scientist","Data Scientist - Systems Engineering",Excel,1
+"Other Scientist","Quality Control Scientist III- Analytical Development",Excel,1
+"Other Scientist","Clinical Scientist, Clinical Development",Excel,1
+"Other Scientist","Scientist - Analytical Services",Excel,1
+"Data Scientist","Manager, Safety Scientist, Medical Safety & Risk Management",Excel,1
+"Data Engineer","Data Engineer - Consultant (Charlotte Based)",Excel,1
+"Data Analyst","Data Analyst 1, full-time contract worker for up to 12 months",Excel,1
+"Data Scientist","Jr. Data Scientist",Excel,1
+"Data Scientist","Senior Insurance Data Scientist",Excel,1
+"Other Scientist","ENVIRONMENTAL ENGINEER/SCIENTIST",Excel,1
+"Other Scientist","Senior Scientist - Regulatory Submissions",Excel,1
+"Data Scientist","Revenue Analytics Manager",Excel,1
+"Other Scientist","Associate Scientist, LC/MS Biologics",Excel,1
+"Other Scientist","Sr. Scientist Method Development",Excel,1
+"Data Engineer","IT - Data Engineer II",Excel,1
+"Other Scientist","Research Scientist, Immunology - Cancer Biology",Excel,1
+"Other Scientist","Project Scientist - Auton Lab, Robotics Institute",Excel,1
+"Not Specified","Enterprise Architect, Data",Excel,1
+"Data Scientist","Senior Manager, Epidemiologic Data Scientist",Excel,1
+"Data Analyst","Corporate Risk Data Analyst (sql_ Based) - Milwaukee or",Excel,1
+"Data Analyst","Marketing Data Analyst, May 2020 Undergrad",Excel,1
+"Data Modeler","Data Modeler - Data Solutions Engineer",Excel,1
+"Other Scientist","Associate Environmental Scientist - Wildlife Biologist",Excel,1
+"Data Scientist","Associate, Data Science, Internal Audit",Excel,1
+"Not Specified","Technology-Minded, Data Professional Opportunities",Excel,1
+"Data Scientist","Managing Data Scientist/ML Engineer",Excel,1
+"Data Engineer","Lead Big Data Engineer",Excel,1
+"Data Scientist","Product Engineer â€“ Spatial Data Science and Statistical Analysis",Excel,1
+"Data Scientist","Sr Software Engineer (Data Scientist)",Excel,1
+"Data Engineer","Sr. Data Engineer (ETL Developer)",Excel,1
+"Data Engineer","Senior Data Engineer",SQL,5
+"Data Scientist","Data Scientist",SQL,68
+"ML Engineer","Staff Machine Learning Engineer",SQL,1
+"Data Engineer","Data Engineer",SQL,29
+"Data Engineer","Lead Data Engineer",SQL,1
+"Data Analyst","Data Analyst",SQL,10
+"Data Scientist","Staff Data Scientist - Technology",SQL,1
+"Data Analyst","Marketing Data Analyst",SQL,2
+"Data Scientist","Senior Data Scientist",SQL,11
+"Data Scientist","Data Analytics Manager",SQL,1
+"Data Scientist","Analytics Manager - Data Mart",SQL,1
+"Data Scientist","Lead Data Scientist",SQL,4
+"Data Scientist","Senior Machine Learning (ML) Engineer / Data Scientist - Cyber Security Analytics",SQL,1
+"Data Scientist","Data Scientist - Health Data Analytics",SQL,1
+"Data Engineer","Sr. Data Engineer - Contract-to-Hire (Java)",SQL,1
+"Data Scientist","Data Scientist - Quantitative",SQL,1
+"Data Engineer","Sr. Data Engineer",SQL,2
+"ML Engineer","Machine Learning Engineer",SQL,2
+"Data Scientist","Data Scientist/ML Engineer",SQL,1
+"Data Analyst","Business Data Analyst, sql_",SQL,1
+"Data Scientist","Senior Risk Data Scientist",SQL,1
+"Data Scientist","Sr. Data Scientist",SQL,1
+"Data Analyst","Data Analyst - Asset Management",SQL,1
+"Data Scientist","Data Scientist - Research",SQL,1
+"Data Analyst","Web Data Analyst",SQL,1
+"Data Analyst","Business Intelligence Analyst / Developer",SQL,1
+"Data Engineer","MongoDB Data Engineer II",SQL,1
+"Data Analyst","Data & Analytics Consultant (NYC)",SQL,1
+"Data Analyst","Senior Data Analyst",SQL,7
+"Data Scientist","Senior Spark Engineer (Data Science)",SQL,1
+"Data Scientist","Director, Data Science",SQL,1
+"Data Scientist","Sr. Data Scientist - Analytics, Personalized Healthcare (PHC)",SQL,1
+"Data Scientist","Data Scientist SR",SQL,1
+"Data Engineer","Big Data Engineer - Chicago - Future Opportunity",SQL,1
+"Data Scientist","R&D Sr Data Scientist",SQL,1
+"Data Scientist","Data Scientist (Actuary, FSA or ASA)",SQL,1
+"Data Analyst","Survey Data Analyst",SQL,1
+"Data Scientist","Staff Data Scientist",SQL,1
+"Data Scientist","Risk and Analytics IT, Data Scientist",SQL,1
+"Data Analyst","Lead Health Data Analyst - Front End",SQL,1
+"Data Scientist","Analytics Manager",SQL,1
+"Data Analyst","Junior Data Analyst",SQL,1
+"Data Engineer","sql_ Data Engineer",SQL,1
+"Not Specified","Data Management Specialist",SQL,1
+"Data Analyst","E-Commerce Data Analyst",SQL,1
+"Data Scientist","Insurance Data Scientist",SQL,1
+"Data Analyst","Insurance Financial Data Analyst",SQL,1
+"Data Engineer","Data Engineer I - Azure",SQL,1
+"Data Scientist","Sr. Data Scientist II",SQL,1
+"Data Analyst","Information Security Data Analyst",SQL,2
+"Data Analyst","Excel / VBA / sql_ Data Analyst",SQL,1
+"Data Scientist","Data Scientist, Rice University",SQL,1
+"Data Scientist","VP, Data Science",SQL,1
+"Data Scientist","Data Scientist, Senior",SQL,1
+"Data Analyst","Financial Data Analyst",SQL,1
+"Data Scientist","PL Actuarial-Lead Data Scientist",SQL,1
+"ML Engineer","Senior Data & Machine Learning Scientist",SQL,1
+"Data Analyst","CONSULTANTâ€“ DATA ANALYTICS GROUP",SQL,1
+"Data Scientist","Data Scientist II",SQL,1
+"Data Engineer","Data Engineer, Data Engineering and Artifical Intelligence",SQL,1
+"Data Analyst","Analytics - Business Assurance Data Analyst",SQL,1
+"Data Analyst","Sr. Data Analyst",SQL,3
+"Data Analyst","Products Data Analyst II",SQL,1
+"Data Analyst","Program/Data Analyst",SQL,1
+"Data Analyst","Data Analyst Senior",SQL,1
+"Data Analyst","Lead Data Analyst",SQL,1
+"Data Scientist","Data Science Engineer - Mobile",SQL,1
+"Other Scientist","RESEARCH COMPUTER SCIENTIST - RESEARCH ENGINEER - SR. COMPUTER SCIENTIST - SOFTWARE DEVELOPMENT",SQL,1
+"Data Scientist","Sr Expert Data Science, Advanced Visual Analytics (Associate level)",SQL,1
+"Data Engineer","Principal Data Engineer, Data Platform & Insights",SQL,1
+"Data Analyst","IT Associate Data Analyst",SQL,1
+"Data Analyst","Clinical Data Analyst",SQL,1
+"Data Analyst","Business Data Analyst",SQL,1
+"Data Scientist","Data Scientist - Sales",SQL,1
+"Data Scientist","Director Data Science",SQL,1
+"Data Analyst","Sr Data Analyst - IT",SQL,1
+"Not Specified","Data Operations Lead",SQL,1
+"Data Analyst","Data Analyst 2 (Missionary Department)",SQL,1
+"ML Engineer","Principal Machine Learning Scientist",SQL,1
+"Data Analyst","Supply Chain Data Analyst",SQL,1
+"Data Engineer","Data Engineer - ETL",SQL,1
+"Data Modeler","Data Modeler (Analytical Systems)",SQL,1
+"Data Engineer","Staff Data Engineer",SQL,1
+"Data Scientist","Product Manager/Data Evangelist",SQL,1
+"Data Analyst","Senior Data Analyst/Scientist",SQL,1
+"Data Modeler","Data Architect / Data Modeler",SQL,1
+"Data Analyst","Data Analyst, Performance Partnership",SQL,1
+"Data Engineer","Big Data Engineer",SQL,1
+"Data Engineer","Data Engineering Analyst",SQL,1
+"Data Scientist","Manager of Data Science",SQL,1
+"Data Scientist","Data Science Manager",SQL,1
+"Data Analyst","Senior Quantitative Analyst",SQL,1
+"Data Scientist","Data Scientist Manager",SQL,1
+"Data Scientist","Product Engineer â€“ Data Science",SQL,1
+"Data Engineer","Software Data Engineer - College",SQL,1
+"Data Engineer","Associate Data Engineer",SQL,1
+"Data Engineer","Staff BI and Data Engineer",SQL,1
+"ML Engineer","Machine Learning Engineer - Regulatory",SQL,1
+"ML Engineer","Research Scientist, Machine Learning Department",SQL,1
+"Data Engineer","Associate Director, Platform and DevOps- Data Engineering and Aritifical Intelligence",SQL,1
+"Data Analyst","Foundational Community Supports Data Analyst",SQL,1
+"Data Scientist","Data Scientist - Systems Engineering",SQL,1
+"Data Analyst","Senior Health Data Analyst, Star Ratings",SQL,1
+"Not Specified","Senior Engineer, Data Management Engineering",SQL,1
+"Other Scientist","Software Engineer Staff Scientist: Human Language Technologies",SQL,1
+"Data Engineer","Data Engineer - Consultant (Charlotte Based)",SQL,1
+"Data Analyst","Data Analyst 1, full-time contract worker for up to 12 months",SQL,1
+"Data Scientist","Data Scientist (Warehouse Automation)",SQL,1
+"Data Scientist","Jr. Data Scientist",SQL,1
+"Data Scientist","Senior Insurance Data Scientist",SQL,1
+"Data Scientist","Revenue Analytics Manager",SQL,1
+"Data Engineer","IT - Data Engineer II",SQL,1
+"Not Specified","Enterprise Architect, Data",SQL,1
+"Data Analyst","Marketing Data Analyst, May 2020 Undergrad",SQL,1
+"Data Modeler","Data Modeler - Data Solutions Engineer",SQL,1
+"Data Scientist","Associate, Data Science, Internal Audit",SQL,1
+"Data Engineer","Sr Data Engineer (Sr BI Developer)",SQL,1
+"Data Analyst","Salesforce Analytics Consultant",SQL,1
+"Not Specified","Technology-Minded, Data Professional Opportunities",SQL,1
+"Data Scientist","Managing Data Scientist/ML Engineer",SQL,1
+"Data Scientist","Sr Software Engineer (Data Scientist)",SQL,1
+"Data Engineer","Sr. Data Engineer (ETL Developer)",SQL,1
+"Data Scientist","Data Scientist",SAS,16
+"Data Analyst","Marketing Data Analyst",SAS,1
+"Data Scientist","Lead Data Scientist",SAS,1
+"Data Scientist","Senior Research Statistician- Data Scientist",SAS,1
+"Data Scientist","Senior Risk Data Scientist",SAS,1
+"Data Engineer","MongoDB Data Engineer II",SAS,1
+"Data Scientist","Director, Data Science",SAS,1
+"Data Analyst","Lead Health Data Analyst - Front End",SAS,1
+"Data Scientist","Senior Data Scientist",SAS,3
+"Data Scientist","Insurance Data Scientist",SAS,1
+"Data Scientist","PL Actuarial-Lead Data Scientist",SAS,1
+"Data Scientist","Data Scientist II",SAS,1
+"Data Analyst","Products Data Analyst II",SAS,1
+"Data Analyst","Data Analyst Senior",SAS,1
+"Data Scientist","Director II, Data Science - GRS Predictive Analytics",SAS,1
+"Data Scientist","Sr Expert Data Science, Advanced Visual Analytics (Associate level)",SAS,1
+"Data Scientist","Data Scientist Manager",SAS,1
+"Data Scientist","Data Scientist - Systems Engineering",SAS,1
+"Data Scientist","Director II, Data Science - GRM Actuarial",SAS,1
+"Data Scientist","Jr. Data Scientist",SAS,1
+"Data Scientist","Senior Insurance Data Scientist",SAS,1
+"Data Analyst","Marketing Data Analyst, May 2020 Undergrad",SAS,1
+"Data Scientist","Associate, Data Science, Internal Audit",SAS,1
+"Data Analyst","Salesforce Analytics Consultant",SAS,1
+"Other Scientist","Scientist, Pharmacometrics",SAS,1
+"Data Scientist","Data Scientist",Keras,11
+"Data Scientist","Senior Data Scientist",Keras,1
+"Data Scientist","Customer Data Scientist/Sales Engineer",Keras,1
+"Data Scientist","Customer Data Scientist/Sales Engineer (Bay",Keras,1
+"Data Scientist","Sr. Data Scientist II",Keras,1
+"Data Scientist","VP, Data Science",Keras,1
+"Data Scientist","Principal Data Scientist (Computational Chemistry)",Keras,1
+"Data Scientist","Geospatial Software Developer and Data Scientist",Keras,1
+"Data Scientist","Software Engineer (Data Scientist/Software Engineer) - SISW - MG",Keras,1
+"Data Scientist","Data Scientist",PyTorch,11
+"Data Scientist","Data Scientist in Artificial Intelligence Early Career",PyTorch,1
+"Data Scientist","Data Scientist / Machine Learning Expert",PyTorch,1
+"Data Scientist","Sr. Data Scientist II",PyTorch,1
+"ML Engineer","Senior Data & Machine Learning Scientist",PyTorch,1
+"Data Scientist","Principal Data Scientist (Computational Chemistry)",PyTorch,1
+"Data Scientist","Senior Data Scientist 4 Artificial Intelligence",PyTorch,1
+"ML Engineer","Machine Learning Engineer",PyTorch,1
+"Data Scientist","Geospatial Software Developer and Data Scientist",PyTorch,1
+"ML Engineer","Machine Learning Engineer (NLP)",PyTorch,1
+"Other Scientist","Research Scientist or Senior Research Scientist - Computer Vision",PyTorch,1
+"Data Scientist","Product Engineer â€“ Spatial Data Science and Statistical Analysis",PyTorch,1
+"Data Scientist","Sr Software Engineer (Data Scientist)",PyTorch,1
+"Data Scientist","Senior Data Scientist Artificial Intelligence",PyTorch,1
+"Data Scientist","Data Scientist",Scikit-learn,16
+"ML Engineer","Staff Machine Learning Engineer",Scikit-learn,1
+"Data Scientist","Senior Data Scientist",Scikit-learn,3
+"Data Scientist","Data Scientist / Machine Learning Expert",Scikit-learn,1
+"Data Scientist","Customer Data Scientist/Sales Engineer",Scikit-learn,1
+"Data Scientist","Lead Data Scientist",Scikit-learn,2
+"Data Scientist","R&D Sr Data Scientist",Scikit-learn,1
+"Data Scientist","Customer Data Scientist/Sales Engineer (Bay",Scikit-learn,1
+"Data Scientist","Sr. Data Scientist, Cyber-Security LT Contract",Scikit-learn,1
+"Data Scientist","Sr. Data Scientist II",Scikit-learn,1
+"ML Engineer","Senior Data & Machine Learning Scientist",Scikit-learn,1
+"Data Scientist","Principal Data Scientist (Computational Chemistry)",Scikit-learn,1
+"Data Scientist","Geospatial Software Developer and Data Scientist",Scikit-learn,1
+"ML Engineer","Principal Machine Learning Scientist",Scikit-learn,1
+"Data Scientist","Manager of Data Science",Scikit-learn,1
+"Data Scientist","Data Scientist Manager",Scikit-learn,1
+"Data Scientist","Senior Data Scientist - Algorithms",Scikit-learn,1
+"ML Engineer","Research Scientist, Machine Learning Department",Scikit-learn,1
+"Data Scientist","Product Engineer â€“ Spatial Data Science and Statistical Analysis",Scikit-learn,1
+"ML Engineer","Staff Machine Learning Engineer",TensorFlow,1
+"Data Scientist","Data Scientist",TensorFlow,23
+"Data Scientist","Senior Data Scientist",TensorFlow,3
+"ML Engineer","Machine Learning Engineer",TensorFlow,2
+"Data Scientist","Data Scientist in Artificial Intelligence Early Career",TensorFlow,1
+"Data Scientist","Customer Data Scientist/Sales Engineer",TensorFlow,1
+"Data Scientist","R&D Sr Data Scientist",TensorFlow,1
+"Data Scientist","Customer Data Scientist/Sales Engineer (Bay",TensorFlow,1
+"Data Scientist","Sr. Data Scientist II",TensorFlow,1
+"Data Scientist","Data Scientist, Rice University",TensorFlow,1
+"Data Scientist","VP, Data Science",TensorFlow,1
+"ML Engineer","Senior Data & Machine Learning Scientist",TensorFlow,1
+"Data Scientist","Principal Data Scientist (Computational Chemistry)",TensorFlow,1
+"Data Scientist","Senior Data Scientist 4 Artificial Intelligence",TensorFlow,1
+"Data Scientist","Geospatial Software Developer and Data Scientist",TensorFlow,1
+"ML Engineer","Machine Learning Engineer (NLP)",TensorFlow,1
+"Data Scientist","Manager of Data Science",TensorFlow,1
+"Data Scientist","Software Engineer (Data Scientist/Software Engineer) - SISW - MG",TensorFlow,1
+"Other Scientist","Research Scientist or Senior Research Scientist - Computer Vision",TensorFlow,1
+"Data Engineer","Senior Data Engineer",TensorFlow,1
+"Data Scientist","Product Engineer â€“ Spatial Data Science and Statistical Analysis",TensorFlow,1
+"Data Scientist","Sr Software Engineer (Data Scientist)",TensorFlow,1
+"Data Scientist","Senior Data Scientist Artificial Intelligence",TensorFlow,1
+"Data Scientist","Data Scientist",Hadoop,20
+"Data Engineer","Data Engineer",Hadoop,13
+"Data Scientist","Staff Data Scientist - Technology",Hadoop,1
+"Data Scientist","Senior Data Scientist",Hadoop,3
+"Data Scientist","Customer Data Scientist",Hadoop,1
+"Data Scientist","Senior Machine Learning (ML) Engineer / Data Scientist - Cyber Security Analytics",Hadoop,1
+"ML Engineer","Machine Learning Engineer",Hadoop,1
+"Data Scientist","Data Scientist/ML Engineer",Hadoop,1
+"Data Analyst","Data Analyst",Hadoop,1
+"Data Scientist","Associate Data Scientist/Computer Scientist",Hadoop,1
+"Data Scientist","Customer Data Scientist/Sales Engineer",Hadoop,1
+"Data Scientist","Lead Data Scientist",Hadoop,1
+"Data Scientist","Sr. Data Scientist - Analytics, Personalized Healthcare (PHC)",Hadoop,1
+"Data Scientist","Data Scientist SR",Hadoop,1
+"Data Engineer","Big Data Engineer - Chicago - Future Opportunity",Hadoop,1
+"Data Scientist","Staff Data Scientist",Hadoop,1
+"Data Scientist","Customer Data Scientist/Sales Engineer (Bay",Hadoop,1
+"Data Engineer","sql_ Data Engineer",Hadoop,1
+"Not Specified","Data Management Specialist",Hadoop,1
+"Data Scientist","Sr. Data Scientist, Cyber-Security LT Contract",Hadoop,1
+"Data Engineer","Data Engineer I - Azure",Hadoop,1
+"Data Scientist","Sr. Data Scientist II",Hadoop,1
+"Data Engineer","Data Engineer, Data Engineering and Artifical Intelligence",Hadoop,1
+"Data Scientist","Data Science Engineer - Mobile",Hadoop,1
+"Data Engineer","Senior Data Engineer",Hadoop,4
+"Data Engineer","Big Data Engineer",Hadoop,2
+"Data Modeler","Data Modeler (Analytical Systems)",Hadoop,1
+"Data Engineer","Staff Data Engineer",Hadoop,1
+"Data Engineer","Data Engineering Analyst",Hadoop,1
+"Data Scientist","Data Scientist Manager",Hadoop,1
+"Data Scientist","Senior Data Scientist - Algorithms",Hadoop,1
+"Data Analyst","Information Security Data Analyst",Hadoop,1
+"ML Engineer","Machine Learning Engineer - Regulatory",Hadoop,1
+"Data Engineer","Associate Director, Platform and DevOps- Data Engineering and Aritifical Intelligence",Hadoop,1
+"Not Specified","Senior Engineer, Data Management Engineering",Hadoop,1
+"Data Engineer","Sr. Data Engineer",Hadoop,1
+"Data Engineer","Sr. Data Engineer | Big Data SaaS Pipeline",Hadoop,1
+"Data Engineer","Data Engineer - Consultant (Charlotte Based)",Hadoop,1
+"Data Scientist","Jr. Data Scientist",Hadoop,1
+"Data Engineer","IT - Data Engineer II",Hadoop,1
+"Not Specified","Enterprise Architect, Data",Hadoop,1
+"Data Engineer","Sr Data Engineer (Sr BI Developer)",Hadoop,1
+"Not Specified","Technology-Minded, Data Professional Opportunities",Hadoop,1
+"Data Scientist","Managing Data Scientist/ML Engineer",Hadoop,1
+"Data Engineer","Lead Big Data Engineer",Hadoop,1
+"Data Scientist","Data Scientist",Tableau,28
+"Data Analyst","Data Analyst",Tableau,6
+"Data Analyst","Marketing Data Analyst",Tableau,2
+"Data Scientist","Senior Data Scientist",Tableau,6
+"Data Scientist","Data Analytics Manager",Tableau,1
+"Data Scientist","Analytics Manager - Data Mart",Tableau,1
+"Data Scientist","Lead Data Scientist",Tableau,1
+"Data Scientist","Senior Machine Learning (ML) Engineer / Data Scientist - Cyber Security Analytics",Tableau,1
+"Data Scientist","College Hire - Data Scientist - Open to December 2019 Graduates",Tableau,1
+"Data Scientist","Data Science Analyst",Tableau,1
+"Data Scientist","Data Scientist/ML Engineer",Tableau,1
+"Data Analyst","Business Data Analyst, sql_",Tableau,1
+"Data Scientist","Data Scientist - Research",Tableau,1
+"Data Analyst","Web Data Analyst",Tableau,1
+"Data Engineer","MongoDB Data Engineer II",Tableau,1
+"Data Analyst","Data & Analytics Consultant (NYC)",Tableau,1
+"Data Analyst","Analytics Consultant",Tableau,1
+"Data Scientist","BI & Platform Analytics Manager",Tableau,1
+"Data Scientist","Data Scientist (Actuary, FSA or ASA)",Tableau,1
+"Data Analyst","Senior Data Analyst",Tableau,3
+"Data Scientist","Risk and Analytics IT, Data Scientist",Tableau,1
+"Data Scientist","Analytics Manager",Tableau,1
+"Data Analyst","Junior Data Analyst",Tableau,1
+"Data Engineer","sql_ Data Engineer",Tableau,1
+"Data Scientist","Principal Data Scientist with over 10 years experience",Tableau,1
+"Data Engineer","Data Engineer",Tableau,4
+"Data Analyst","Financial Data Analyst",Tableau,1
+"Data Scientist","Data Scientist II",Tableau,1
+"Data Engineer","Data Engineer, Data Engineering and Artifical Intelligence",Tableau,1
+"Data Analyst","Analytics - Business Assurance Data Analyst",Tableau,1
+"Data Analyst","Sr. Data Analyst",Tableau,2
+"Data Analyst","Products Data Analyst II",Tableau,1
+"Data Analyst","Program/Data Analyst",Tableau,1
+"Data Analyst","Data Analyst Senior",Tableau,1
+"Data Scientist","Data Science Engineer - Mobile",Tableau,1
+"Data Analyst","Senior Operations Data Analyst, Call Center Operations",Tableau,1
+"Data Scientist","Sr Expert Data Science, Advanced Visual Analytics (Associate level)",Tableau,1
+"Data Scientist","Data Scientist - Sales",Tableau,1
+"Data Scientist","Director Data Science",Tableau,1
+"Data Analyst","Sr Data Analyst - IT",Tableau,1
+"Not Specified","Data Operations Lead",Tableau,1
+"Data Analyst","Data Analyst 2 (Missionary Department)",Tableau,1
+"Data Analyst","Supply Chain Data Analyst",Tableau,1
+"Data Analyst","Senior Data Analyst/Scientist",Tableau,1
+"Data Analyst","Data Analyst, Performance Partnership",Tableau,1
+"Data Engineer","Staff BI and Data Engineer",Tableau,1
+"Data Scientist","Data Scientist - Systems Engineering",Tableau,1
+"Data Scientist","Data Scientist (Warehouse Automation)",Tableau,1
+"Data Scientist","Jr. Data Scientist",Tableau,1
+"Data Scientist","Revenue Analytics Manager",Tableau,1
+"Not Specified","Enterprise Architect, Data",Tableau,1
+"Data Analyst","Salesforce Analytics Consultant",Tableau,1
+"Not Specified","Technology-Minded, Data Professional Opportunities",Tableau,1
+"Data Scientist","Managing Data Scientist/ML Engineer",Tableau,1
+"Data Engineer","Sr. Data Engineer (ETL Developer)",Tableau,1
+"Data Scientist","Data Scientist","Power BI",9
+"Data Analyst","Data Analyst","Power BI",3
+"Data Scientist","Senior Data Scientist","Power BI",4
+"Data Analyst","Business Data Analyst, sql_","Power BI",1
+"Data Analyst","Web Data Analyst","Power BI",1
+"Data Scientist","Lead Data Scientist","Power BI",1
+"Data Scientist","BI & Platform Analytics Manager","Power BI",1
+"Data Analyst","Senior Data Analyst","Power BI",2
+"Data Scientist","Risk and Analytics IT, Data Scientist","Power BI",1
+"Data Analyst","Junior Data Analyst","Power BI",1
+"Data Engineer","sql_ Data Engineer","Power BI",1
+"Data Engineer","Data Engineer","Power BI",2
+"Data Scientist","Data Science Engineer - Mobile","Power BI",1
+"Data Scientist","Sr Expert Data Science, Advanced Visual Analytics (Associate level)","Power BI",1
+"Data Analyst","Business Data Analyst","Power BI",1
+"Data Scientist","Director Data Science","Power BI",1
+"Data Analyst","Senior Data Analyst/Scientist","Power BI",1
+"Data Analyst","Data Analyst, Performance Partnership","Power BI",1
+"Data Analyst","Marketing Data Analyst","Power BI",1
+"Data Analyst","Sr. Data Analyst","Power BI",1
+"Data Scientist","Data Scientist (Warehouse Automation)","Power BI",1
+"Not Specified","Enterprise Architect, Data","Power BI",1
+"Data Modeler","Data Modeler - Data Solutions Engineer","Power BI",1
+"Data Analyst","Salesforce Analytics Consultant","Power BI",1
+"Data Scientist","Data Scientist",Flink,2
+"Data Scientist","Senior Data Scientist",Flink,1
+"Data Engineer","Data Engineer",Flink,1
+"Data Engineer","Senior Data Engineer",Flink,2
+"Data Engineer","Staff Data Engineer",Flink,1
+"Data Engineer","Sr. Data Engineer | Big Data SaaS Pipeline",Flink,1
+"Data Analyst","Data Analyst",MongoDB,1
+"Data Scientist","Data Scientist",MongoDB,5
+"Data Engineer","Data Engineer",MongoDB,3
+"Data Scientist","Data Scientist - Quantitative",MongoDB,1
+"Data Scientist","Data Scientist/ML Engineer",MongoDB,1
+"Data Engineer","MongoDB Data Engineer II",MongoDB,1
+"Data Scientist","Senior Spark Engineer (Data Science)",MongoDB,1
+"Data Scientist","Data Scientist, Senior",MongoDB,1
+"Data Scientist","Senior Data Scientist",MongoDB,1
+"Data Engineer","Data Engineer, Data Engineering and Artifical Intelligence",MongoDB,1
+"Data Analyst","Products Data Analyst II",MongoDB,1
+"Data Engineer","Staff Data Engineer",MongoDB,1
+"Data Scientist","Data Scientist Manager",MongoDB,1
+"Data Engineer","Associate Director, Platform and DevOps- Data Engineering and Aritifical Intelligence",MongoDB,1
+"Data Scientist","Data Scientist - Systems Engineering",MongoDB,1
+"Data Engineer","Sr. Data Engineer",MongoDB,1
+"Not Specified","Technology-Minded, Data Professional Opportunities",MongoDB,1
+"Data Scientist","Managing Data Scientist/ML Engineer",MongoDB,1
+"Data Analyst","Marketing Data Analyst","Google Analytics",1
+"Data Scientist","Data Scientist","Google Analytics",3
+"Data Analyst","Jr. Business Data Analyst","Google Analytics",1
+"Data Analyst","Digital Marketing & ECommerce Data Analyst","Google Analytics",1
+"Data Analyst","Business Data Analyst","Google Analytics",1
+"Data Analyst","Senior Data Analyst","Google Analytics",1
