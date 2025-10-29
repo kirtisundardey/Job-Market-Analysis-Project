@@ -107,7 +107,7 @@ Both dashboards include interactive visuals, KPIs, and charts to help explore jo
   - Data Analyst (75 openings)  
 - **Top Skills:** Excel, SQL, Python, AWS, Tableau  
 - **Education Impact:**  
-  - PhD professionals earn the highest average salary ($119K)  
+  - PhD professionals earn the highest average salary $119K  
   - Master’s degree holders earn around $105K on average  
 - **Highest Paying Roles:** Data Scientist & ML Engineer  
 
