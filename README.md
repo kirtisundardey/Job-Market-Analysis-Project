@@ -1,26 +1,26 @@
 # Job Market Analysis Dashboard
 **By Kirti Sundar Dey**  
-📊 *Internship Project at Datamites*
+📊 *Internship Project at  Rubixe – AI Solutions Company*
 
 ---
 
 ## 📝 Short Description  
-An interactive **Power BI dashboard** powered by **SQL-based data analysis**, developed during my **internship at Datamites**.  
+An interactive **Power BI dashboard** powered by **SQL-based data analysis**, developed during my **internship at Rubixe – AI Solutions Company**.  
 This project explores job market trends in various **data-related roles** and reveals insights about **in-demand skills, hiring industries, and salary patterns** across the U.S.
 
 ---
 
 ## 🏷️ Tags  
-`#DataAnalysis` `#PowerBI` `#SQL` `#MySQLWorkbench` `#DatamitesInternship`  
+`#DataAnalysis` `#PowerBI` `#SQL` `#MySQLWorkbench` `#RubixeInternship`  
 `#DataVisualization` `#DashboardProject` `#JobMarketAnalysis` `#DataScience`  
 `#DataEngineer` `#DataAnalyst` `#SkillsInsights` `#BIProject`
 
 ---
 
 ## 📋 Project Overview  
-This project was completed during my **internship at Datamites** as part of a hands-on assignment on **data analytics and visualization**.  
+This project was completed during my **internship at Rubixe – AI Solutions Company** as part of a hands-on assignment on **data analytics and visualization**.
 
-Datamites provided a **single database named `job_market_analysis`**, which contained **42 columns** with detailed job market information such as job titles, companies, locations, salaries, skills, and industries.
+Rubixe provided a **single database named `job_market_analysis`**, which contained **42 columns** with detailed job market information such as job titles, companies, locations, salaries, skills, and industries.
 
 I performed the following steps:
 1. **Extracted the raw data** from the [`job_market_analysis`](./RawData/job_market_analysis.csv) database.  
@@ -37,7 +37,8 @@ The final dashboard helps understand hiring trends in the **Data Science & Analy
 ### 1. Database Overview  
 - **Database Name:** [`job_market_analysis`](./RawData/job_market_analysis.csv)  
 - **Total Columns:** 42  
-- **Data Provided By:** Datamites  
+- **Data Provided By:** Rubixe – AI Solutions Company
+
 - **Data Includes:**  
   - Job Title  
   - Company Name  
@@ -144,7 +145,7 @@ Both dashboards include interactive visuals, KPIs, and charts to help explore jo
 ## 📧 Contact  
 **👤 Kirti Sundar Dey**  
 💼 Data Analyst | Power BI | SQL | Excel  
-🎓 Internship Project by **Datamites**  
+🎓 Internship Project – **Rubixe – AI Solutions Company**
 📍 Bengaluru, India  
 🔗 [LinkedIn](https://www.linkedin.com/in/kirti-sundar-dey-0954122a5)
 
