@@ -145,7 +145,7 @@ Both dashboards include interactive visuals, KPIs, and charts to help explore jo
 ## 📧 Contact  
 **👤 Kirti Sundar Dey**  
 💼 Data Analyst | Power BI | SQL | Excel  
-🎓 Internship Project – **Rubixe – AI Solutions Company**
+🎓 Internship Project by **Rubixe – AI Solutions Company**  
 📍 Bengaluru, India  
 🔗 [LinkedIn](https://www.linkedin.com/in/kirti-sundar-dey-0954122a5)
 
